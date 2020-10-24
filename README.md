@@ -1,5 +1,7 @@
 # smsVertificationDemo
 
+Google change some critical changes in policy. From Jan 19th, 2019 google removed all app from play store with permission CALL_LOG and READ_SMS
+
 ## Solution
 <img src="https://github.com/dev-mgkaung/smsVertificationDemo/blob/master/1_Ypvky_mIAD7dVoNUzBz39A.png" width=“400”/>
 
