@@ -1,7 +1,7 @@
 # smsVertificationDemo
 
 ## Solution
-<img src="./screens/sms_retriever_api.png" width=“400”/>
+<img src="https://github.com/dev-mgkaung/smsVertificationDemo/blob/master/1_Ypvky_mIAD7dVoNUzBz39A.png" width=“400”/>
 
 
 ## Info
