@@ -13,6 +13,11 @@
 hki6EDFjSZz
 ```
 
+## How to generate Hash key
+```python
+
+```
+
    
 ## Info
 <img src="https://github.com/dev-mgkaung/smsVertificationDemo/blob/master/sms_photo.png" width="600"/>
